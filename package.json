@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+    "homepage": "https://GoitStudentsWorks.github.io/bc_react_68_kiianskii/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
